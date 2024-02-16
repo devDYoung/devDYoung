@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Who%20am%20I%3F%20%F0%9F%A4%94&fontSize=40&animation=fadeIn)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevDYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2379C83D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDYoung)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDYoung)](https://github.com/anuraghazra/github-readme-stats)
