@@ -1,6 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hello,%20Do%20Young's%20world&fontAlign=50&animation=blinking" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Who%20am%20I?&fontSize=40&animation=fadeIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevDYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2379C83D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDYoung)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDYoung)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/devDYoung/devDYoung/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📞 Contact me 📞
@@ -11,7 +17,7 @@
 </div><br>
 
   
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -58,6 +64,5 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     </div>
 
-![snake gif](https://github.com/devDYoung/devDYoung/blob/output/github-contribution-grid-snake.svg)
    
 
