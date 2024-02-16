@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDYoung)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/devDYoung/devDYoung/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/devDYoung/devDYoung/blob/output/github-contribution-grid-snake.svg) 
 
 
 ## 📞 Contact me 📞
