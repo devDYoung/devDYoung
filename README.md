@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Who%20am%20I?&fontSize=40&animation=fadeIn)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="35" height="35" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevDYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2379C83D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
