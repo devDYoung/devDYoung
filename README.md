@@ -40,9 +40,10 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
     <!--Server-->
-    <p><strong>Server</strong></p>
+    <p><strong>Server</strong></p
     <div>
-     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">    
+     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">   
+     <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=black">
     </div>
     <!--Development Tools-->
     <p><strong>Development Tools</strong></p>
